@@ -1,0 +1,11 @@
+.photo{
+  padding: 5px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border-radius:4px;
+  flex-basis: 250px;
+  flex-grow:1;
+  margin:5px;
+  width: 90px;
+}

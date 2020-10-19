@@ -1,0 +1,39 @@
+
+.container{
+  width: 950px;
+  margin:20px auto;
+}
+
+
+@media (max-width: 960px) {
+  .container {
+    width: 700px;
+  }
+}
+@media (max-width: 720px) {
+  .container {
+    width: 500px;
+  }
+}
+@media (max-width: 540px) {
+  .container {
+    width: 300px;
+  }
+}
+
+.containersmall{
+  padding-left: 500px;
+}
+.containersmall h2{
+  color: white;
+}
+.containersmall p{
+  font-style: italic;
+  font-weight: lighter;
+}
+
+.containerfinal{
+  padding-right: 400px;
+  margin-bottom: 50px;
+  list-style: none;
+}

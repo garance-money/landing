@@ -1,0 +1,23 @@
+.banner{
+  background-image:url(../../images/Saleccia.jpg);
+  color: rgb(249, 247, 237);
+  background-size: cover;
+  background-position: center;
+  margin: 30px auto;
+  padding-bottom: 50px;
+  padding: 50px;
+}
+
+.banner h1{
+  font-size: 35px
+  top-margin:70px;
+  padding: 20px 50px;
+}
+.banner h2{
+  font-size: 20px
+  font-weight: lighter;
+  padding: 50px;
+}
+.banner a{
+  margin-left: 50px;
+}
